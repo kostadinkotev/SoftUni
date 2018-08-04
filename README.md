@@ -1,6 +1,5 @@
 # SoftUni
 ## Tech Module
-### Software Technologies
-#### July 2018
+### May-August 2018
 
-This repo contains homeworks and projects for SoftUni
+This repo contains homeworks and projects for the Tech Module @ SoftUni
